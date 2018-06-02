@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Black Panther</string>
+    <string name="against">VS</string>
+    <string name="blackPanther">Black Panther</string>
+    <string name="killmonger">Killmonger</string>
+    <string name="score">10</string>
+    <string name="upperCut">Uppercut</string>
+    <string name="jab">Jab</string>
+    <string name="frontKick">Front Kick</string>
+    <string name="reset">Reset</string>
+</resources>
+
